@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Femi-portfolio/static/css/main.4541a760.css",
+    "main.js": "/Femi-portfolio/static/js/main.c0500b2a.js",
+    "static/media/Game.png": "/Femi-portfolio/static/media/Game.3b2eb3a4b2a4b2794b80.png",
+    "static/media/UnitTest.png": "/Femi-portfolio/static/media/UnitTest.aa5cd93cefbf264e06b0.png",
+    "static/media/NPS.png": "/Femi-portfolio/static/media/NPS.1d3d46807a225f21bfcb.png",
+    "static/media/Database.png": "/Femi-portfolio/static/media/Database.8a4600e95f72e803de79.png",
+    "static/media/Animal.png": "/Femi-portfolio/static/media/Animal.7cf54f14c7a70291b05b.png",
+    "static/media/Countries.png": "/Femi-portfolio/static/media/Countries.78085a749270e2eaffce.png",
+    "static/media/Form.png": "/Femi-portfolio/static/media/Form.e991f37aa0b8d95f6f63.png",
+    "static/media/SnakeGame.png": "/Femi-portfolio/static/media/SnakeGame.6c6426d6ecce58d59f0d.png",
+    "static/media/TodoApp.png": "/Femi-portfolio/static/media/TodoApp.62f18b4f2948c02ffa0d.png",
+    "static/media/CV.pdf": "/Femi-portfolio/static/media/CV.ef11495b6102b49e074f.pdf",
+    "static/media/ProjectTool.png": "/Femi-portfolio/static/media/ProjectTool.0004feae65969e30e436.png",
+    "static/media/IceCream.png": "/Femi-portfolio/static/media/IceCream.ab58ee12370ee48ea110.png",
+    "static/media/ratInMaze.png": "/Femi-portfolio/static/media/ratInMaze.c21d9df24ac277e1d337.png",
+    "static/media/about.png": "/Femi-portfolio/static/media/about.a1115abeab0037477755.png",
+    "static/media/Moped.png": "/Femi-portfolio/static/media/Moped.767f9ef74b54dc21fc2c.png",
+    "static/media/Currency.png": "/Femi-portfolio/static/media/Currency.b90056d6c972d5f77e85.png",
+    "static/media/SignUp.png": "/Femi-portfolio/static/media/SignUp.67fc1e8218456b003d96.png",
+    "index.html": "/Femi-portfolio/index.html",
+    "main.4541a760.css.map": "/Femi-portfolio/static/css/main.4541a760.css.map",
+    "main.c0500b2a.js.map": "/Femi-portfolio/static/js/main.c0500b2a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4541a760.css",
+    "static/js/main.c0500b2a.js"
+  ]
+}
